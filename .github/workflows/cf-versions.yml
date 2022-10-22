@@ -1,0 +1,25 @@
+name: Fetch CurseForge versions
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 14 * * MON'
+
+
+jobs:
+  run:
+    name: Fetch CurseForge Versions
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update CurseForge versions.json
+        run: "curl https://minecraft.curseforge.com/api/game/versions?token=${{ secrets.CF_TOKEN }} | python -m json.tool > versions.json"
+        shell: bash
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: intellectualsites-bot
+          author_email: "95638266+intellectualsites-bot@users.noreply.github.com"
+          message: 'Update versions.json'
