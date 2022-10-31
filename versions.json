@@ -31204,5 +31204,26 @@
         "name": "0.14.10",
         "slug": "0-14-10",
         "apiVersion": ""
+    },
+    {
+        "id": 9559,
+        "gameVersionTypeID": 75125,
+        "name": "1.20-Snapshot",
+        "slug": "1-19-snapshot",
+        "apiVersion": ""
+    },
+    {
+        "id": 9560,
+        "gameVersionTypeID": 1,
+        "name": "1.19.2",
+        "slug": "1-19-2",
+        "apiVersion": ""
+    },
+    {
+        "id": 9561,
+        "gameVersionTypeID": 1,
+        "name": "1.19.3",
+        "slug": "1-19-3",
+        "apiVersion": ""
     }
 ]
