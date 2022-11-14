@@ -31225,5 +31225,19 @@
         "name": "1.19.3",
         "slug": "1-19-3",
         "apiVersion": ""
+    },
+    {
+        "id": 9587,
+        "gameVersionTypeID": 3,
+        "name": "43.1.52",
+        "slug": "43-1-52",
+        "apiVersion": null
+    },
+    {
+        "id": 9591,
+        "gameVersionTypeID": 3,
+        "name": "40.1.85",
+        "slug": "40-1-85",
+        "apiVersion": null
     }
 ]
