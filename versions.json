@@ -31246,5 +31246,19 @@
         "name": "43.1.53",
         "slug": "43-1-53",
         "apiVersion": null
+    },
+    {
+        "id": 9618,
+        "gameVersionTypeID": 3,
+        "name": "43.1.55",
+        "slug": "43-1-55",
+        "apiVersion": null
+    },
+    {
+        "id": 9620,
+        "gameVersionTypeID": 3,
+        "name": "43.1.57",
+        "slug": "43-1-57",
+        "apiVersion": null
     }
 ]
