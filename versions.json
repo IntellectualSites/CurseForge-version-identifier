@@ -31638,5 +31638,33 @@
         "name": "44.1.9",
         "slug": "44-1-9",
         "apiVersion": null
+    },
+    {
+        "id": 9729,
+        "gameVersionTypeID": 73247,
+        "name": "0.14.14",
+        "slug": "0-14-14",
+        "apiVersion": ""
+    },
+    {
+        "id": 9730,
+        "gameVersionTypeID": 3,
+        "name": "44.1.10",
+        "slug": "44-1-10",
+        "apiVersion": null
+    },
+    {
+        "id": 9731,
+        "gameVersionTypeID": 3,
+        "name": "44.1.12",
+        "slug": "44-1-12",
+        "apiVersion": null
+    },
+    {
+        "id": 9732,
+        "gameVersionTypeID": 3,
+        "name": "44.1.16",
+        "slug": "44-1-16",
+        "apiVersion": null
     }
 ]
