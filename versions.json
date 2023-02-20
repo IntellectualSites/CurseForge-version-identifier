@@ -31666,5 +31666,12 @@
         "name": "44.1.16",
         "slug": "44-1-16",
         "apiVersion": null
+    },
+    {
+        "id": 9746,
+        "gameVersionTypeID": 3,
+        "name": "44.1.17",
+        "slug": "44-1-17",
+        "apiVersion": null
     }
 ]
