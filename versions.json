@@ -31673,5 +31673,40 @@
         "name": "44.1.17",
         "slug": "44-1-17",
         "apiVersion": null
+    },
+    {
+        "id": 9751,
+        "gameVersionTypeID": 73247,
+        "name": "0.14.15",
+        "slug": "0-14-15",
+        "apiVersion": ""
+    },
+    {
+        "id": 9756,
+        "gameVersionTypeID": 3,
+        "name": "44.1.18",
+        "slug": "44-1-18",
+        "apiVersion": null
+    },
+    {
+        "id": 9757,
+        "gameVersionTypeID": 3,
+        "name": "43.2.5",
+        "slug": "43-2-5",
+        "apiVersion": null
+    },
+    {
+        "id": 9758,
+        "gameVersionTypeID": 3,
+        "name": "44.1.20",
+        "slug": "44-1-20",
+        "apiVersion": null
+    },
+    {
+        "id": 9759,
+        "gameVersionTypeID": 3,
+        "name": "43.2.6",
+        "slug": "43-2-6",
+        "apiVersion": null
     }
 ]
