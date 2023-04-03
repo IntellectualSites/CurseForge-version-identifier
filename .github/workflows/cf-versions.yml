@@ -14,7 +14,7 @@ jobs:
         run: "curl https://minecraft.curseforge.com/api/game/versions?token=${{ secrets.CF_TOKEN }} | python -m json.tool > versions.json"
         shell: bash
       - name: Commit changes
-        uses: EndBug/add-and-commit@4fd07a8ee2566653175cb67eaf0542f5efb4d585 # ratchet:EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@2ad491f8e52a8091c1572705516a10c60d12181f # ratchet:EndBug/add-and-commit@v9
         with:
           author_name: intellectualsites-bot
           author_email: "95638266+intellectualsites-bot@users.noreply.github.com"
