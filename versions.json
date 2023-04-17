@@ -32009,5 +32009,12 @@
         "name": "45.0.43",
         "slug": "45-0-43",
         "apiVersion": null
+    },
+    {
+        "id": 9859,
+        "gameVersionTypeID": 73407,
+        "name": "1.19.3-Snapshot",
+        "slug": "1-19-3-snapshot",
+        "apiVersion": ""
     }
 ]
