@@ -32016,5 +32016,47 @@
         "name": "1.19.3-Snapshot",
         "slug": "1-19-3-snapshot",
         "apiVersion": ""
+    },
+    {
+        "id": 9865,
+        "gameVersionTypeID": 3,
+        "name": "45.0.44",
+        "slug": "45-0-44",
+        "apiVersion": null
+    },
+    {
+        "id": 9868,
+        "gameVersionTypeID": 73407,
+        "name": "1.19.4-Snapshot",
+        "slug": "1-19-4-snapshot",
+        "apiVersion": ""
+    },
+    {
+        "id": 9869,
+        "gameVersionTypeID": 3,
+        "name": "45.0.46",
+        "slug": "45-0-46",
+        "apiVersion": null
+    },
+    {
+        "id": 9870,
+        "gameVersionTypeID": 3,
+        "name": "45.0.45",
+        "slug": "45-0-45",
+        "apiVersion": null
+    },
+    {
+        "id": 9871,
+        "gameVersionTypeID": 3,
+        "name": "40.2.2",
+        "slug": "40-2-2",
+        "apiVersion": null
+    },
+    {
+        "id": 9875,
+        "gameVersionTypeID": 3,
+        "name": "45.0.47",
+        "slug": "45-0-47",
+        "apiVersion": null
     }
 ]
