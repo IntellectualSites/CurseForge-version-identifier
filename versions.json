@@ -32058,5 +32058,19 @@
         "name": "45.0.47",
         "slug": "45-0-47",
         "apiVersion": null
+    },
+    {
+        "id": 9876,
+        "gameVersionTypeID": 3,
+        "name": "45.0.49",
+        "slug": "45-0-49",
+        "apiVersion": null
+    },
+    {
+        "id": 9882,
+        "gameVersionTypeID": 3,
+        "name": "45.0.50",
+        "slug": "45-0-50",
+        "apiVersion": null
     }
 ]
