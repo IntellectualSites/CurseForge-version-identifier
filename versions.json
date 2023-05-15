@@ -32114,5 +32114,33 @@
         "name": "45.0.57",
         "slug": "45-0-57",
         "apiVersion": null
+    },
+    {
+        "id": 9902,
+        "gameVersionTypeID": 3,
+        "name": "43.2.11",
+        "slug": "43-2-11",
+        "apiVersion": null
+    },
+    {
+        "id": 9906,
+        "gameVersionTypeID": 3,
+        "name": "45.0.58",
+        "slug": "45-0-58",
+        "apiVersion": null
+    },
+    {
+        "id": 9908,
+        "gameVersionTypeID": 3,
+        "name": "45.0.59",
+        "slug": "45-0-59",
+        "apiVersion": null
+    },
+    {
+        "id": 9910,
+        "gameVersionTypeID": 3,
+        "name": "45.0.63",
+        "slug": "45-0-63",
+        "apiVersion": null
     }
 ]
