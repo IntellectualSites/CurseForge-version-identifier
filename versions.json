@@ -32170,5 +32170,61 @@
         "name": "0.14.21",
         "slug": "0-14-21",
         "apiVersion": ""
+    },
+    {
+        "id": 9927,
+        "gameVersionTypeID": 3,
+        "name": "43.2.12",
+        "slug": "43-2-12",
+        "apiVersion": null
+    },
+    {
+        "id": 9928,
+        "gameVersionTypeID": 3,
+        "name": "40.2.6",
+        "slug": "40-2-6",
+        "apiVersion": null
+    },
+    {
+        "id": 9929,
+        "gameVersionTypeID": 3,
+        "name": "40.2.5",
+        "slug": "40-2-5",
+        "apiVersion": null
+    },
+    {
+        "id": 9930,
+        "gameVersionTypeID": 3,
+        "name": "45.0.66",
+        "slug": "45-0-66",
+        "apiVersion": null
+    },
+    {
+        "id": 9931,
+        "gameVersionTypeID": 3,
+        "name": "40.2.7",
+        "slug": "40-2-7",
+        "apiVersion": null
+    },
+    {
+        "id": 9936,
+        "gameVersionTypeID": 3,
+        "name": "40.2.8",
+        "slug": "40-2-8",
+        "apiVersion": null
+    },
+    {
+        "id": 9938,
+        "gameVersionTypeID": 3,
+        "name": "43.2.13",
+        "slug": "43-2-13",
+        "apiVersion": null
+    },
+    {
+        "id": 9962,
+        "gameVersionTypeID": 3,
+        "name": "40.2.9",
+        "slug": "40-2-9",
+        "apiVersion": null
     }
 ]
