@@ -32226,5 +32226,103 @@
         "name": "40.2.9",
         "slug": "40-2-9",
         "apiVersion": null
+    },
+    {
+        "id": 9967,
+        "gameVersionTypeID": 68441,
+        "name": "Risugami's ModLoader",
+        "slug": "risugamis-modloader",
+        "apiVersion": ""
+    },
+    {
+        "id": 9970,
+        "gameVersionTypeID": 615,
+        "name": "1.20",
+        "slug": "1-20",
+        "apiVersion": ""
+    },
+    {
+        "id": 9971,
+        "gameVersionTypeID": 75125,
+        "name": "1.20",
+        "slug": "1-20",
+        "apiVersion": ""
+    },
+    {
+        "id": 9972,
+        "gameVersionTypeID": 3,
+        "name": "43.2.14",
+        "slug": "43-2-14",
+        "apiVersion": null
+    },
+    {
+        "id": 9973,
+        "gameVersionTypeID": 1,
+        "name": "1.19.4",
+        "slug": "1-19-4",
+        "apiVersion": ""
+    },
+    {
+        "id": 9974,
+        "gameVersionTypeID": 1,
+        "name": "1.20",
+        "slug": "1-20",
+        "apiVersion": ""
+    },
+    {
+        "id": 9975,
+        "gameVersionTypeID": 3,
+        "name": "45.1.0",
+        "slug": "45-1-0",
+        "apiVersion": null
+    },
+    {
+        "id": 9976,
+        "gameVersionTypeID": 3,
+        "name": "46.0.1",
+        "slug": "46-0-1",
+        "apiVersion": null
+    },
+    {
+        "id": 9978,
+        "gameVersionTypeID": 3,
+        "name": "46.0.2",
+        "slug": "46-0-2",
+        "apiVersion": null
+    },
+    {
+        "id": 9981,
+        "gameVersionTypeID": 3,
+        "name": "46.0.10",
+        "slug": "46-0-10",
+        "apiVersion": null
+    },
+    {
+        "id": 9983,
+        "gameVersionTypeID": 3,
+        "name": "46.0.11",
+        "slug": "46-0-11",
+        "apiVersion": null
+    },
+    {
+        "id": 9984,
+        "gameVersionTypeID": 3,
+        "name": "46.0.12",
+        "slug": "46-0-12",
+        "apiVersion": null
+    },
+    {
+        "id": 9987,
+        "gameVersionTypeID": 3,
+        "name": "46.0.13",
+        "slug": "46-0-13",
+        "apiVersion": null
+    },
+    {
+        "id": 9988,
+        "gameVersionTypeID": 3,
+        "name": "46.0.14",
+        "slug": "46-0-14",
+        "apiVersion": null
     }
 ]
