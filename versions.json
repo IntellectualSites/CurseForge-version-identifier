@@ -32366,5 +32366,19 @@
         "name": "47.0.2",
         "slug": "47-0-2",
         "apiVersion": null
+    },
+    {
+        "id": 10014,
+        "gameVersionTypeID": 3,
+        "name": "47.0.3",
+        "slug": "47-0-3",
+        "apiVersion": null
+    },
+    {
+        "id": 10017,
+        "gameVersionTypeID": 3,
+        "name": "47.0.4",
+        "slug": "47-0-4",
+        "apiVersion": null
     }
 ]
