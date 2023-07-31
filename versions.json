@@ -32947,5 +32947,19 @@
         "name": "47.1.42",
         "slug": "47-1-42",
         "apiVersion": null
+    },
+    {
+        "id": 10149,
+        "gameVersionTypeID": 3,
+        "name": "47.1.43",
+        "slug": "47-1-43",
+        "apiVersion": null
+    },
+    {
+        "id": 10150,
+        "gameVersionTypeID": 68441,
+        "name": "NeoForge",
+        "slug": "neoforge",
+        "apiVersion": ""
     }
 ]
