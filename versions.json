@@ -32961,5 +32961,19 @@
         "name": "NeoForge",
         "slug": "neoforge",
         "apiVersion": ""
+    },
+    {
+        "id": 10158,
+        "gameVersionTypeID": 73247,
+        "name": "0.14.22",
+        "slug": "0-14-22",
+        "apiVersion": ""
+    },
+    {
+        "id": 10162,
+        "gameVersionTypeID": 75125,
+        "name": "1.20.2-Snapshot",
+        "slug": "1-20-2-snapshot",
+        "apiVersion": ""
     }
 ]
