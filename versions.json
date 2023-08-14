@@ -32975,5 +32975,12 @@
         "name": "1.20.2-Snapshot",
         "slug": "1-20-2-snapshot",
         "apiVersion": ""
+    },
+    {
+        "id": 10171,
+        "gameVersionTypeID": 3,
+        "name": "47.1.44",
+        "slug": "47-1-44",
+        "apiVersion": null
     }
 ]
