@@ -32982,5 +32982,26 @@
         "name": "47.1.44",
         "slug": "47-1-44",
         "apiVersion": null
+    },
+    {
+        "id": 10179,
+        "gameVersionTypeID": 76692,
+        "name": "0.19.3",
+        "slug": "0-19-3",
+        "apiVersion": ""
+    },
+    {
+        "id": 10181,
+        "gameVersionTypeID": 76692,
+        "name": "0.19.4",
+        "slug": "0-19-4",
+        "apiVersion": ""
+    },
+    {
+        "id": 10184,
+        "gameVersionTypeID": 76692,
+        "name": "0.19.5",
+        "slug": "0-19-5",
+        "apiVersion": ""
     }
 ]
