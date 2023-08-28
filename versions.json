@@ -33003,5 +33003,19 @@
         "name": "0.19.5",
         "slug": "0-19-5",
         "apiVersion": ""
+    },
+    {
+        "id": 10186,
+        "gameVersionTypeID": 76692,
+        "name": "0.20.0",
+        "slug": "0-20-0",
+        "apiVersion": ""
+    },
+    {
+        "id": 10188,
+        "gameVersionTypeID": 76692,
+        "name": "0.20.1",
+        "slug": "0-20-1",
+        "apiVersion": ""
     }
 ]
