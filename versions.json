@@ -33017,5 +33017,89 @@
         "name": "0.20.1",
         "slug": "0-20-1",
         "apiVersion": ""
+    },
+    {
+        "id": 10190,
+        "gameVersionTypeID": 76871,
+        "name": "Vanilla",
+        "slug": "vanilla",
+        "apiVersion": ""
+    },
+    {
+        "id": 10191,
+        "gameVersionTypeID": 76871,
+        "name": "OptiFine",
+        "slug": "optifine",
+        "apiVersion": ""
+    },
+    {
+        "id": 10192,
+        "gameVersionTypeID": 76871,
+        "name": "Iris",
+        "slug": "iris",
+        "apiVersion": ""
+    },
+    {
+        "id": 10193,
+        "gameVersionTypeID": 76871,
+        "name": "Canvas",
+        "slug": "canvas",
+        "apiVersion": ""
+    },
+    {
+        "id": 10194,
+        "gameVersionTypeID": 3,
+        "name": "47.1.46",
+        "slug": "47-1-46",
+        "apiVersion": null
+    },
+    {
+        "id": 10195,
+        "gameVersionTypeID": 3,
+        "name": "45.1.17",
+        "slug": "45-1-17",
+        "apiVersion": null
+    },
+    {
+        "id": 10196,
+        "gameVersionTypeID": 76692,
+        "name": "0.20.2",
+        "slug": "0-20-2",
+        "apiVersion": ""
+    },
+    {
+        "id": 10200,
+        "gameVersionTypeID": 3,
+        "name": "47.1.47",
+        "slug": "47-1-47",
+        "apiVersion": null
+    },
+    {
+        "id": 10201,
+        "gameVersionTypeID": 3,
+        "name": "45.1.18",
+        "slug": "45-1-18",
+        "apiVersion": null
+    },
+    {
+        "id": 10202,
+        "gameVersionTypeID": 3,
+        "name": "43.2.22",
+        "slug": "43-2-22",
+        "apiVersion": null
+    },
+    {
+        "id": 10203,
+        "gameVersionTypeID": 3,
+        "name": "45.1.19",
+        "slug": "45-1-19",
+        "apiVersion": null
+    },
+    {
+        "id": 10204,
+        "gameVersionTypeID": 3,
+        "name": "43.2.23",
+        "slug": "43-2-23",
+        "apiVersion": null
     }
 ]
