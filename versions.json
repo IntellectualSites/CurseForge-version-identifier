@@ -33332,5 +33332,33 @@
         "name": "0.21.1",
         "slug": "0-21-1",
         "apiVersion": ""
+    },
+    {
+        "id": 10289,
+        "gameVersionTypeID": 3,
+        "name": "48.0.31",
+        "slug": "48-0-31",
+        "apiVersion": null
+    },
+    {
+        "id": 10291,
+        "gameVersionTypeID": 73247,
+        "name": "0.14.24",
+        "slug": "0-14-24",
+        "apiVersion": ""
+    },
+    {
+        "id": 10293,
+        "gameVersionTypeID": 3,
+        "name": "48.0.32",
+        "slug": "48-0-32",
+        "apiVersion": null
+    },
+    {
+        "id": 10294,
+        "gameVersionTypeID": 3,
+        "name": "48.0.33",
+        "slug": "48-0-33",
+        "apiVersion": null
     }
 ]
