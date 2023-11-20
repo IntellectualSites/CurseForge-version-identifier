@@ -33465,5 +33465,33 @@
         "name": "20.2.44-beta",
         "slug": "20-2-44-beta",
         "apiVersion": ""
+    },
+    {
+        "id": 10337,
+        "gameVersionTypeID": 3,
+        "name": "48.0.38",
+        "slug": "48-0-38",
+        "apiVersion": null
+    },
+    {
+        "id": 10338,
+        "gameVersionTypeID": 3,
+        "name": "47.2.6",
+        "slug": "47-2-6",
+        "apiVersion": null
+    },
+    {
+        "id": 10343,
+        "gameVersionTypeID": 3,
+        "name": "48.0.39",
+        "slug": "48-0-39",
+        "apiVersion": null
+    },
+    {
+        "id": 10347,
+        "gameVersionTypeID": 3,
+        "name": "48.0.40",
+        "slug": "48-0-40",
+        "apiVersion": null
     }
 ]
