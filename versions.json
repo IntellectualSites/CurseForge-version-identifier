@@ -33411,13 +33411,6 @@
         "apiVersion": ""
     },
     {
-        "id": 10324,
-        "gameVersionTypeID": 76994,
-        "name": "47.1.79",
-        "slug": "47-1-79",
-        "apiVersion": ""
-    },
-    {
         "id": 10326,
         "gameVersionTypeID": 1,
         "name": "1.20.2",
@@ -33492,6 +33485,41 @@
         "gameVersionTypeID": 3,
         "name": "48.0.40",
         "slug": "48-0-40",
+        "apiVersion": null
+    },
+    {
+        "id": 10356,
+        "gameVersionTypeID": 76994,
+        "name": "20.2.64-beta",
+        "slug": "20-2-64-beta",
+        "apiVersion": ""
+    },
+    {
+        "id": 10358,
+        "gameVersionTypeID": 3,
+        "name": "48.0.41",
+        "slug": "48-0-41",
+        "apiVersion": null
+    },
+    {
+        "id": 10359,
+        "gameVersionTypeID": 3,
+        "name": "47.2.7",
+        "slug": "47-2-7",
+        "apiVersion": null
+    },
+    {
+        "id": 10360,
+        "gameVersionTypeID": 3,
+        "name": "48.0.42",
+        "slug": "48-0-42",
+        "apiVersion": null
+    },
+    {
+        "id": 10361,
+        "gameVersionTypeID": 3,
+        "name": "47.2.8",
+        "slug": "47-2-8",
         "apiVersion": null
     }
 ]
