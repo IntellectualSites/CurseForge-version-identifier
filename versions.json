@@ -35999,5 +35999,89 @@
         "name": "1.20.1-47.1.98",
         "slug": "1-20-1-47-1-98",
         "apiVersion": null
+    },
+    {
+        "id": 10860,
+        "gameVersionTypeID": 76994,
+        "name": "20.4.153-beta",
+        "slug": "20-4-153-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 10862,
+        "gameVersionTypeID": 76994,
+        "name": "20.4.154-beta",
+        "slug": "20-4-154-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 10863,
+        "gameVersionTypeID": 76994,
+        "name": "1.20.1-47.1.99",
+        "slug": "1-20-1-47-1-99",
+        "apiVersion": null
+    },
+    {
+        "id": 10864,
+        "gameVersionTypeID": 615,
+        "name": "1.20.2",
+        "slug": "1-20-2",
+        "apiVersion": ""
+    },
+    {
+        "id": 10865,
+        "gameVersionTypeID": 615,
+        "name": "1.20.3",
+        "slug": "1-20-3",
+        "apiVersion": ""
+    },
+    {
+        "id": 10866,
+        "gameVersionTypeID": 615,
+        "name": "1.20.4",
+        "slug": "1-20-4",
+        "apiVersion": ""
+    },
+    {
+        "id": 10871,
+        "gameVersionTypeID": 76994,
+        "name": "20.4.155-beta",
+        "slug": "20-4-155-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 10875,
+        "gameVersionTypeID": 76994,
+        "name": "20.4.156-beta",
+        "slug": "20-4-156-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 10877,
+        "gameVersionTypeID": 76994,
+        "name": "20.4.157-beta",
+        "slug": "20-4-157-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 10878,
+        "gameVersionTypeID": 76994,
+        "name": "20.4.158-beta",
+        "slug": "20-4-158-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 10879,
+        "gameVersionTypeID": 3,
+        "name": "43.3.8",
+        "slug": "43-3-8",
+        "apiVersion": null
+    },
+    {
+        "id": 10881,
+        "gameVersionTypeID": 76994,
+        "name": "20.4.159-beta",
+        "slug": "20-4-159-beta",
+        "apiVersion": null
     }
 ]
