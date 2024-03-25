@@ -36475,5 +36475,96 @@
         "name": "20.4.201",
         "slug": "20-4-201",
         "apiVersion": null
+    },
+    {
+        "id": 11016,
+        "gameVersionTypeID": 76994,
+        "name": "20.4.202",
+        "slug": "20-4-202",
+        "apiVersion": null
+    },
+    {
+        "id": 11017,
+        "gameVersionTypeID": 76994,
+        "name": "20.4.203",
+        "slug": "20-4-203",
+        "apiVersion": null
+    },
+    {
+        "id": 11018,
+        "gameVersionTypeID": 3,
+        "name": "49.0.38",
+        "slug": "49-0-38",
+        "apiVersion": null
+    },
+    {
+        "id": 11019,
+        "gameVersionTypeID": 76994,
+        "name": "20.4.204",
+        "slug": "20-4-204",
+        "apiVersion": null
+    },
+    {
+        "id": 11021,
+        "gameVersionTypeID": 76994,
+        "name": "20.4.205",
+        "slug": "20-4-205",
+        "apiVersion": null
+    },
+    {
+        "id": 11023,
+        "gameVersionTypeID": 76994,
+        "name": "20.4.206",
+        "slug": "20-4-206",
+        "apiVersion": null
+    },
+    {
+        "id": 11024,
+        "gameVersionTypeID": 76994,
+        "name": "20.4.207",
+        "slug": "20-4-207",
+        "apiVersion": null
+    },
+    {
+        "id": 11025,
+        "gameVersionTypeID": 76994,
+        "name": "1.20.1-47.1.102",
+        "slug": "1-20-1-47-1-102",
+        "apiVersion": null
+    },
+    {
+        "id": 11026,
+        "gameVersionTypeID": 76994,
+        "name": "20.4.208",
+        "slug": "20-4-208",
+        "apiVersion": null
+    },
+    {
+        "id": 11027,
+        "gameVersionTypeID": 76994,
+        "name": "20.4.209",
+        "slug": "20-4-209",
+        "apiVersion": null
+    },
+    {
+        "id": 11028,
+        "gameVersionTypeID": 76994,
+        "name": "20.4.210",
+        "slug": "20-4-210",
+        "apiVersion": null
+    },
+    {
+        "id": 11039,
+        "gameVersionTypeID": 76994,
+        "name": "1.20.1-47.1.103",
+        "slug": "1-20-1-47-1-103",
+        "apiVersion": null
+    },
+    {
+        "id": 11040,
+        "gameVersionTypeID": 76994,
+        "name": "20.4.211",
+        "slug": "20-4-211",
+        "apiVersion": null
     }
 ]
