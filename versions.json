@@ -36895,5 +36895,187 @@
         "name": "49.0.48",
         "slug": "49-0-48",
         "apiVersion": null
+    },
+    {
+        "id": 11163,
+        "gameVersionTypeID": 75125,
+        "name": "1.20.5",
+        "slug": "1-20-5",
+        "apiVersion": null
+    },
+    {
+        "id": 11164,
+        "gameVersionTypeID": 76994,
+        "name": "20.5.0-beta",
+        "slug": "20-5-0-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 11167,
+        "gameVersionTypeID": 76994,
+        "name": "20.5.1-beta",
+        "slug": "20-5-1-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 11168,
+        "gameVersionTypeID": 76994,
+        "name": "20.5.2-beta",
+        "slug": "20-5-2-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 11169,
+        "gameVersionTypeID": 76994,
+        "name": "20.5.3-beta",
+        "slug": "20-5-3-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 11170,
+        "gameVersionTypeID": 76994,
+        "name": "20.4.233",
+        "slug": "20-4-233",
+        "apiVersion": null
+    },
+    {
+        "id": 11173,
+        "gameVersionTypeID": 76994,
+        "name": "20.5.4-beta",
+        "slug": "20-5-4-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 11174,
+        "gameVersionTypeID": 3,
+        "name": "49.0.49",
+        "slug": "49-0-49",
+        "apiVersion": null
+    },
+    {
+        "id": 11175,
+        "gameVersionTypeID": 76994,
+        "name": "1.20.1-47.1.105",
+        "slug": "1-20-1-47-1-105",
+        "apiVersion": null
+    },
+    {
+        "id": 11176,
+        "gameVersionTypeID": 76994,
+        "name": "20.5.5-beta",
+        "slug": "20-5-5-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 11177,
+        "gameVersionTypeID": 76994,
+        "name": "20.5.6-beta",
+        "slug": "20-5-6-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 11179,
+        "gameVersionTypeID": 76994,
+        "name": "20.5.7-beta",
+        "slug": "20-5-7-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 11180,
+        "gameVersionTypeID": 76994,
+        "name": "20.5.8-beta",
+        "slug": "20-5-8-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 11181,
+        "gameVersionTypeID": 76994,
+        "name": "20.5.9-beta",
+        "slug": "20-5-9-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 11182,
+        "gameVersionTypeID": 76994,
+        "name": "20.5.10-beta",
+        "slug": "20-5-10-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 11183,
+        "gameVersionTypeID": 76994,
+        "name": "20.5.11-beta",
+        "slug": "20-5-11-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 11184,
+        "gameVersionTypeID": 76994,
+        "name": "20.5.12-beta",
+        "slug": "20-5-12-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 11185,
+        "gameVersionTypeID": 76994,
+        "name": "20.5.13-beta",
+        "slug": "20-5-13-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 11187,
+        "gameVersionTypeID": 76994,
+        "name": "20.5.14-beta",
+        "slug": "20-5-14-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 11189,
+        "gameVersionTypeID": 76994,
+        "name": "20.5.15-beta",
+        "slug": "20-5-15-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 11190,
+        "gameVersionTypeID": 76994,
+        "name": "20.5.16-beta",
+        "slug": "20-5-16-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 11191,
+        "gameVersionTypeID": 76994,
+        "name": "20.5.17-beta",
+        "slug": "20-5-17-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 11192,
+        "gameVersionTypeID": 76994,
+        "name": "20.5.18-beta",
+        "slug": "20-5-18-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 11193,
+        "gameVersionTypeID": 76994,
+        "name": "20.5.19-beta",
+        "slug": "20-5-19-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 11194,
+        "gameVersionTypeID": 76994,
+        "name": "20.5.20-beta",
+        "slug": "20-5-20-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 11196,
+        "gameVersionTypeID": 76994,
+        "name": "20.5.21-beta",
+        "slug": "20-5-21-beta",
+        "apiVersion": null
     }
 ]
