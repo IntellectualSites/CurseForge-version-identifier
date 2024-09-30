@@ -40493,5 +40493,54 @@
         "name": "21.1.58",
         "slug": "21-1-58",
         "apiVersion": null
+    },
+    {
+        "id": 11996,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.59",
+        "slug": "21-1-59",
+        "apiVersion": null
+    },
+    {
+        "id": 11997,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.60",
+        "slug": "21-1-60",
+        "apiVersion": null
+    },
+    {
+        "id": 11998,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.61",
+        "slug": "21-1-61",
+        "apiVersion": null
+    },
+    {
+        "id": 12003,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.62",
+        "slug": "21-1-62",
+        "apiVersion": null
+    },
+    {
+        "id": 12009,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.63",
+        "slug": "21-1-63",
+        "apiVersion": null
+    },
+    {
+        "id": 12012,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.64",
+        "slug": "21-1-64",
+        "apiVersion": null
+    },
+    {
+        "id": 12014,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.65",
+        "slug": "21-1-65",
+        "apiVersion": null
     }
 ]
