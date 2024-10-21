@@ -40633,5 +40633,40 @@
         "name": "21.1.69",
         "slug": "21-1-69",
         "apiVersion": null
+    },
+    {
+        "id": 12051,
+        "gameVersionTypeID": 3,
+        "name": "52.0.21",
+        "slug": "52-0-21",
+        "apiVersion": null
+    },
+    {
+        "id": 12056,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.70",
+        "slug": "21-1-70",
+        "apiVersion": null
+    },
+    {
+        "id": 12057,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.71",
+        "slug": "21-1-71",
+        "apiVersion": null
+    },
+    {
+        "id": 12062,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.72",
+        "slug": "21-1-72",
+        "apiVersion": null
+    },
+    {
+        "id": 12063,
+        "gameVersionTypeID": 3,
+        "name": "52.0.22",
+        "slug": "52-0-22",
+        "apiVersion": null
     }
 ]
