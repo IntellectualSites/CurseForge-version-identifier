@@ -40840,7 +40840,7 @@
     {
         "id": 12116,
         "gameVersionTypeID": 77784,
-        "name": "1.21.4-snapshot",
+        "name": "1.21.4-Snapshot",
         "slug": "1-21-4-snapshot",
         "apiVersion": ""
     },
@@ -41311,6 +41311,167 @@
         "gameVersionTypeID": 76994,
         "name": "21.3.40-beta",
         "slug": "21-3-40-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12237,
+        "gameVersionTypeID": 76994,
+        "name": "21.3.41-beta",
+        "slug": "21-3-41-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12240,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.81",
+        "slug": "21-1-81",
+        "apiVersion": null
+    },
+    {
+        "id": 12241,
+        "gameVersionTypeID": 76994,
+        "name": "21.3.42-beta",
+        "slug": "21-3-42-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12242,
+        "gameVersionTypeID": 3,
+        "name": "45.3.9",
+        "slug": "45-3-9",
+        "apiVersion": null
+    },
+    {
+        "id": 12243,
+        "gameVersionTypeID": 3,
+        "name": "43.4.6",
+        "slug": "43-4-6",
+        "apiVersion": null
+    },
+    {
+        "id": 12244,
+        "gameVersionTypeID": 3,
+        "name": "40.2.25",
+        "slug": "40-2-25",
+        "apiVersion": null
+    },
+    {
+        "id": 12245,
+        "gameVersionTypeID": 76994,
+        "name": "21.3.43-beta",
+        "slug": "21-3-43-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12246,
+        "gameVersionTypeID": 76994,
+        "name": "21.3.44-beta",
+        "slug": "21-3-44-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12247,
+        "gameVersionTypeID": 76994,
+        "name": "21.3.45-beta",
+        "slug": "21-3-45-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12248,
+        "gameVersionTypeID": 76994,
+        "name": "21.3.46-beta",
+        "slug": "21-3-46-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12249,
+        "gameVersionTypeID": 76994,
+        "name": "21.3.47-beta",
+        "slug": "21-3-47-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12250,
+        "gameVersionTypeID": 76994,
+        "name": "21.3.48-beta",
+        "slug": "21-3-48-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12251,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.82",
+        "slug": "21-1-82",
+        "apiVersion": null
+    },
+    {
+        "id": 12255,
+        "gameVersionTypeID": 76994,
+        "name": "21.3.49-beta",
+        "slug": "21-3-49-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12256,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.83",
+        "slug": "21-1-83",
+        "apiVersion": null
+    },
+    {
+        "id": 12258,
+        "gameVersionTypeID": 76994,
+        "name": "21.3.50-beta",
+        "slug": "21-3-50-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12259,
+        "gameVersionTypeID": 76994,
+        "name": "21.3.51-beta",
+        "slug": "21-3-51-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12261,
+        "gameVersionTypeID": 76994,
+        "name": "21.3.52-beta",
+        "slug": "21-3-52-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12263,
+        "gameVersionTypeID": 76994,
+        "name": "21.3.53-beta",
+        "slug": "21-3-53-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12264,
+        "gameVersionTypeID": 76994,
+        "name": "21.3.54-beta",
+        "slug": "21-3-54-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12266,
+        "gameVersionTypeID": 76994,
+        "name": "21.3.55-beta",
+        "slug": "21-3-55-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12267,
+        "gameVersionTypeID": 76994,
+        "name": "21.3.56",
+        "slug": "21-3-56",
+        "apiVersion": null
+    },
+    {
+        "id": 12273,
+        "gameVersionTypeID": 3,
+        "name": "40.2.26",
+        "slug": "40-2-26",
         "apiVersion": null
     }
 ]
