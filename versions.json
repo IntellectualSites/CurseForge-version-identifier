@@ -44112,5 +44112,166 @@
         "name": "21.1.139",
         "slug": "21-1-139",
         "apiVersion": null
+    },
+    {
+        "id": 12934,
+        "gameVersionTypeID": 77784,
+        "name": "1.21.5",
+        "slug": "1-21-5",
+        "apiVersion": null
+    },
+    {
+        "id": 12935,
+        "gameVersionTypeID": 76994,
+        "name": "21.5.0-beta",
+        "slug": "21-5-0-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12937,
+        "gameVersionTypeID": 76994,
+        "name": "21.5.1-beta",
+        "slug": "21-5-1-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12941,
+        "gameVersionTypeID": 76994,
+        "name": "21.5.2-beta",
+        "slug": "21-5-2-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12944,
+        "gameVersionTypeID": 3,
+        "name": "55.0.0",
+        "slug": "55-0-0",
+        "apiVersion": null
+    },
+    {
+        "id": 12945,
+        "gameVersionTypeID": 3,
+        "name": "55.0.1",
+        "slug": "55-0-1",
+        "apiVersion": null
+    },
+    {
+        "id": 12946,
+        "gameVersionTypeID": 76994,
+        "name": "21.5.3-beta",
+        "slug": "21-5-3-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12947,
+        "gameVersionTypeID": 76994,
+        "name": "21.5.4-beta",
+        "slug": "21-5-4-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12950,
+        "gameVersionTypeID": 3,
+        "name": "55.0.2",
+        "slug": "55-0-2",
+        "apiVersion": null
+    },
+    {
+        "id": 12951,
+        "gameVersionTypeID": 3,
+        "name": "55.0.3",
+        "slug": "55-0-3",
+        "apiVersion": null
+    },
+    {
+        "id": 12952,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.140",
+        "slug": "21-1-140",
+        "apiVersion": null
+    },
+    {
+        "id": 12953,
+        "gameVersionTypeID": 76994,
+        "name": "21.5.5-beta",
+        "slug": "21-5-5-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12954,
+        "gameVersionTypeID": 76994,
+        "name": "21.5.6-beta",
+        "slug": "21-5-6-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12956,
+        "gameVersionTypeID": 76994,
+        "name": "21.5.7-beta",
+        "slug": "21-5-7-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12959,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.141",
+        "slug": "21-1-141",
+        "apiVersion": null
+    },
+    {
+        "id": 12961,
+        "gameVersionTypeID": 76994,
+        "name": "21.5.8-beta",
+        "slug": "21-5-8-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12963,
+        "gameVersionTypeID": 76994,
+        "name": "21.5.9-beta",
+        "slug": "21-5-9-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12965,
+        "gameVersionTypeID": 76994,
+        "name": "21.5.10-beta",
+        "slug": "21-5-10-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12966,
+        "gameVersionTypeID": 76994,
+        "name": "21.5.11-beta",
+        "slug": "21-5-11-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12967,
+        "gameVersionTypeID": 76994,
+        "name": "21.5.12-beta",
+        "slug": "21-5-12-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12968,
+        "gameVersionTypeID": 76994,
+        "name": "21.5.13-beta",
+        "slug": "21-5-13-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12969,
+        "gameVersionTypeID": 76994,
+        "name": "21.5.14-beta",
+        "slug": "21-5-14-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 12970,
+        "gameVersionTypeID": 76692,
+        "name": "0.28.1",
+        "slug": "0-28-1",
+        "apiVersion": null
     }
 ]
