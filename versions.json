@@ -45183,5 +45183,33 @@
         "name": "21.1.168",
         "slug": "21-1-168",
         "apiVersion": null
+    },
+    {
+        "id": 13210,
+        "gameVersionTypeID": 76994,
+        "name": "21.5.63-beta",
+        "slug": "21-5-63-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 13212,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.169",
+        "slug": "21-1-169",
+        "apiVersion": null
+    },
+    {
+        "id": 13231,
+        "gameVersionTypeID": 76994,
+        "name": "20.6.135",
+        "slug": "20-6-135",
+        "apiVersion": null
+    },
+    {
+        "id": 13232,
+        "gameVersionTypeID": 76994,
+        "name": "20.4.248",
+        "slug": "20-4-248",
+        "apiVersion": null
     }
 ]
