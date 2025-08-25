@@ -46863,5 +46863,96 @@
         "name": "21.1.201",
         "slug": "21-1-201",
         "apiVersion": null
+    },
+    {
+        "id": 13775,
+        "gameVersionTypeID": 76994,
+        "name": "21.8.33",
+        "slug": "21-8-33",
+        "apiVersion": null
+    },
+    {
+        "id": 13777,
+        "gameVersionTypeID": 76994,
+        "name": "21.8.34",
+        "slug": "21-8-34",
+        "apiVersion": null
+    },
+    {
+        "id": 13778,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.202",
+        "slug": "21-1-202",
+        "apiVersion": null
+    },
+    {
+        "id": 13779,
+        "gameVersionTypeID": 76994,
+        "name": "21.4.151",
+        "slug": "21-4-151",
+        "apiVersion": null
+    },
+    {
+        "id": 13780,
+        "gameVersionTypeID": 76994,
+        "name": "21.5.92",
+        "slug": "21-5-92",
+        "apiVersion": null
+    },
+    {
+        "id": 13781,
+        "gameVersionTypeID": 76994,
+        "name": "21.3.90",
+        "slug": "21-3-90",
+        "apiVersion": null
+    },
+    {
+        "id": 13782,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.203",
+        "slug": "21-1-203",
+        "apiVersion": null
+    },
+    {
+        "id": 13784,
+        "gameVersionTypeID": 76994,
+        "name": "21.8.35",
+        "slug": "21-8-35",
+        "apiVersion": null
+    },
+    {
+        "id": 13788,
+        "gameVersionTypeID": 76994,
+        "name": "21.8.36",
+        "slug": "21-8-36",
+        "apiVersion": null
+    },
+    {
+        "id": 13790,
+        "gameVersionTypeID": 3,
+        "name": "58.0.7",
+        "slug": "58-0-7",
+        "apiVersion": null
+    },
+    {
+        "id": 13791,
+        "gameVersionTypeID": 3,
+        "name": "58.0.8",
+        "slug": "58-0-8",
+        "apiVersion": null
+    },
+    {
+        "id": 13792,
+        "gameVersionTypeID": 3,
+        "name": "58.0.9",
+        "slug": "58-0-9",
+        "apiVersion": null
+    },
+    {
+        "id": 13800,
+        "gameVersionTypeID": 3,
+        "name": "58.0.10",
+        "slug": "58-0-10",
+        "apiVersion": null
     }
 ]
