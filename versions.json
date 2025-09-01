@@ -46954,5 +46954,96 @@
         "name": "58.0.10",
         "slug": "58-0-10",
         "apiVersion": null
+    },
+    {
+        "id": 13808,
+        "gameVersionTypeID": 76994,
+        "name": "21.8.37",
+        "slug": "21-8-37",
+        "apiVersion": null
+    },
+    {
+        "id": 13809,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.204",
+        "slug": "21-1-204",
+        "apiVersion": null
+    },
+    {
+        "id": 13810,
+        "gameVersionTypeID": 76994,
+        "name": "21.4.152",
+        "slug": "21-4-152",
+        "apiVersion": null
+    },
+    {
+        "id": 13811,
+        "gameVersionTypeID": 76994,
+        "name": "21.5.93",
+        "slug": "21-5-93",
+        "apiVersion": null
+    },
+    {
+        "id": 13812,
+        "gameVersionTypeID": 76994,
+        "name": "21.3.91",
+        "slug": "21-3-91",
+        "apiVersion": null
+    },
+    {
+        "id": 13813,
+        "gameVersionTypeID": 76994,
+        "name": "21.8.38",
+        "slug": "21-8-38",
+        "apiVersion": null
+    },
+    {
+        "id": 13814,
+        "gameVersionTypeID": 76994,
+        "name": "21.8.39",
+        "slug": "21-8-39",
+        "apiVersion": null
+    },
+    {
+        "id": 13815,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.205",
+        "slug": "21-1-205",
+        "apiVersion": null
+    },
+    {
+        "id": 13818,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.206",
+        "slug": "21-1-206",
+        "apiVersion": null
+    },
+    {
+        "id": 13819,
+        "gameVersionTypeID": 3,
+        "name": "55.0.25",
+        "slug": "55-0-25",
+        "apiVersion": null
+    },
+    {
+        "id": 13820,
+        "gameVersionTypeID": 3,
+        "name": "55.1.0",
+        "slug": "55-1-0",
+        "apiVersion": null
+    },
+    {
+        "id": 13821,
+        "gameVersionTypeID": 3,
+        "name": "58.1.0",
+        "slug": "58-1-0",
+        "apiVersion": null
+    },
+    {
+        "id": 13832,
+        "gameVersionTypeID": 76994,
+        "name": "21.8.40",
+        "slug": "21-8-40",
+        "apiVersion": null
     }
 ]
