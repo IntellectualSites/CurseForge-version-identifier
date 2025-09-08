@@ -47045,5 +47045,117 @@
         "name": "21.8.40",
         "slug": "21-8-40",
         "apiVersion": null
+    },
+    {
+        "id": 13834,
+        "gameVersionTypeID": 3,
+        "name": "49.2.1",
+        "slug": "49-2-1",
+        "apiVersion": null
+    },
+    {
+        "id": 13835,
+        "gameVersionTypeID": 3,
+        "name": "47.4.8",
+        "slug": "47-4-8",
+        "apiVersion": null
+    },
+    {
+        "id": 13840,
+        "gameVersionTypeID": 76994,
+        "name": "21.8.41",
+        "slug": "21-8-41",
+        "apiVersion": null
+    },
+    {
+        "id": 13841,
+        "gameVersionTypeID": 76994,
+        "name": "21.8.42",
+        "slug": "21-8-42",
+        "apiVersion": null
+    },
+    {
+        "id": 13842,
+        "gameVersionTypeID": 76994,
+        "name": "21.8.43",
+        "slug": "21-8-43",
+        "apiVersion": null
+    },
+    {
+        "id": 13843,
+        "gameVersionTypeID": 76994,
+        "name": "21.8.44",
+        "slug": "21-8-44",
+        "apiVersion": null
+    },
+    {
+        "id": 13845,
+        "gameVersionTypeID": 76994,
+        "name": "21.8.45",
+        "slug": "21-8-45",
+        "apiVersion": null
+    },
+    {
+        "id": 13849,
+        "gameVersionTypeID": 76994,
+        "name": "21.8.46",
+        "slug": "21-8-46",
+        "apiVersion": null
+    },
+    {
+        "id": 13851,
+        "gameVersionTypeID": 76994,
+        "name": "21.3.92",
+        "slug": "21-3-92",
+        "apiVersion": null
+    },
+    {
+        "id": 13852,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.207",
+        "slug": "21-1-207",
+        "apiVersion": null
+    },
+    {
+        "id": 13853,
+        "gameVersionTypeID": 76994,
+        "name": "21.5.94",
+        "slug": "21-5-94",
+        "apiVersion": null
+    },
+    {
+        "id": 13854,
+        "gameVersionTypeID": 76994,
+        "name": "21.4.153",
+        "slug": "21-4-153",
+        "apiVersion": null
+    },
+    {
+        "id": 13856,
+        "gameVersionTypeID": 76994,
+        "name": "21.5.95",
+        "slug": "21-5-95",
+        "apiVersion": null
+    },
+    {
+        "id": 13857,
+        "gameVersionTypeID": 76994,
+        "name": "21.4.154",
+        "slug": "21-4-154",
+        "apiVersion": null
+    },
+    {
+        "id": 13858,
+        "gameVersionTypeID": 76994,
+        "name": "21.3.93",
+        "slug": "21-3-93",
+        "apiVersion": null
+    },
+    {
+        "id": 13859,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.208",
+        "slug": "21-1-208",
+        "apiVersion": null
     }
 ]
