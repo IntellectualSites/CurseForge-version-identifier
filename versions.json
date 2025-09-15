@@ -47157,5 +47157,26 @@
         "name": "21.1.208",
         "slug": "21-1-208",
         "apiVersion": null
+    },
+    {
+        "id": 13867,
+        "gameVersionTypeID": 3,
+        "name": "58.1.1",
+        "slug": "58-1-1",
+        "apiVersion": null
+    },
+    {
+        "id": 13872,
+        "gameVersionTypeID": 76994,
+        "name": "21.8.47",
+        "slug": "21-8-47",
+        "apiVersion": null
+    },
+    {
+        "id": 13875,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.209",
+        "slug": "21-1-209",
+        "apiVersion": null
     }
 ]
