@@ -47248,5 +47248,40 @@
         "name": "52.1.4",
         "slug": "52-1-4",
         "apiVersion": null
+    },
+    {
+        "id": 13909,
+        "gameVersionTypeID": 3,
+        "name": "58.1.6",
+        "slug": "58-1-6",
+        "apiVersion": null
+    },
+    {
+        "id": 13914,
+        "gameVersionTypeID": 3,
+        "name": "55.1.2",
+        "slug": "55-1-2",
+        "apiVersion": null
+    },
+    {
+        "id": 13915,
+        "gameVersionTypeID": 3,
+        "name": "54.1.8",
+        "slug": "54-1-8",
+        "apiVersion": null
+    },
+    {
+        "id": 13916,
+        "gameVersionTypeID": 3,
+        "name": "53.1.4",
+        "slug": "53-1-4",
+        "apiVersion": null
+    },
+    {
+        "id": 13917,
+        "gameVersionTypeID": 3,
+        "name": "52.1.5",
+        "slug": "52-1-5",
+        "apiVersion": null
     }
 ]
