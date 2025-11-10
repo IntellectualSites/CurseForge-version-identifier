@@ -48046,5 +48046,47 @@
         "name": "60.0.15",
         "slug": "60-0-15",
         "apiVersion": null
+    },
+    {
+        "id": 14221,
+        "gameVersionTypeID": 3,
+        "name": "60.0.16",
+        "slug": "60-0-16",
+        "apiVersion": null
+    },
+    {
+        "id": 14222,
+        "gameVersionTypeID": 3,
+        "name": "60.0.17",
+        "slug": "60-0-17",
+        "apiVersion": null
+    },
+    {
+        "id": 14224,
+        "gameVersionTypeID": 76994,
+        "name": "21.10.48-beta",
+        "slug": "21-10-48-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 14227,
+        "gameVersionTypeID": 76994,
+        "name": "21.10.49-beta",
+        "slug": "21-10-49-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 14230,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.214",
+        "slug": "21-1-214",
+        "apiVersion": null
+    },
+    {
+        "id": 14239,
+        "gameVersionTypeID": 73247,
+        "name": "0.18.0",
+        "slug": "0-18-0",
+        "apiVersion": null
     }
 ]
