@@ -48599,5 +48599,75 @@
         "name": "21.11.7-beta",
         "slug": "21-11-7-beta",
         "apiVersion": null
+    },
+    {
+        "id": 14432,
+        "gameVersionTypeID": 76994,
+        "name": "21.11.8-beta",
+        "slug": "21-11-8-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 14434,
+        "gameVersionTypeID": 73247,
+        "name": "0.18.3",
+        "slug": "0-18-3",
+        "apiVersion": null
+    },
+    {
+        "id": 14441,
+        "gameVersionTypeID": 76994,
+        "name": "21.11.9-beta",
+        "slug": "21-11-9-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 14442,
+        "gameVersionTypeID": 76994,
+        "name": "21.11.10-beta",
+        "slug": "21-11-10-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 14446,
+        "gameVersionTypeID": 81493,
+        "name": "26.1-snapshot",
+        "slug": "26-1-snapshot",
+        "apiVersion": ""
+    },
+    {
+        "id": 14450,
+        "gameVersionTypeID": 76994,
+        "name": "21.11.11-beta",
+        "slug": "21-11-11-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 14451,
+        "gameVersionTypeID": 76994,
+        "name": "21.11.12-beta",
+        "slug": "21-11-12-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 14453,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.217",
+        "slug": "21-1-217",
+        "apiVersion": null
+    },
+    {
+        "id": 14454,
+        "gameVersionTypeID": 2,
+        "name": "Java 25",
+        "slug": "java-25",
+        "apiVersion": ""
+    },
+    {
+        "id": 14457,
+        "gameVersionTypeID": 76994,
+        "name": "21.11.13-beta",
+        "slug": "21-11-13-beta",
+        "apiVersion": null
     }
 ]
