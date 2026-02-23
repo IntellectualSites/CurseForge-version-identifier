@@ -49047,5 +49047,12 @@
         "name": "61.1.0",
         "slug": "61-1-0",
         "apiVersion": null
+    },
+    {
+        "id": 15760,
+        "gameVersionTypeID": 3,
+        "name": "61.1.1",
+        "slug": "61-1-1",
+        "apiVersion": null
     }
 ]
