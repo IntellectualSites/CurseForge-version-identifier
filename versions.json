@@ -50251,5 +50251,68 @@
         "name": "26.1.2.37-beta",
         "slug": "26-1-2-37-beta",
         "apiVersion": null
+    },
+    {
+        "id": 16263,
+        "gameVersionTypeID": 76994,
+        "name": "26.1.2.39-beta",
+        "slug": "26-1-2-39-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 16264,
+        "gameVersionTypeID": 76994,
+        "name": "26.1.2.38-beta",
+        "slug": "26-1-2-38-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 16265,
+        "gameVersionTypeID": 76994,
+        "name": "26.1.2.40-beta",
+        "slug": "26-1-2-40-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 16266,
+        "gameVersionTypeID": 76994,
+        "name": "26.1.2.41-beta",
+        "slug": "26-1-2-41-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 16267,
+        "gameVersionTypeID": 3,
+        "name": "64.0.8",
+        "slug": "64-0-8",
+        "apiVersion": null
+    },
+    {
+        "id": 16273,
+        "gameVersionTypeID": 76994,
+        "name": "26.1.2.42-beta",
+        "slug": "26-1-2-42-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 16282,
+        "gameVersionTypeID": 76994,
+        "name": "26.1.2.43-beta",
+        "slug": "26-1-2-43-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 16306,
+        "gameVersionTypeID": 76994,
+        "name": "26.1.2.44-beta",
+        "slug": "26-1-2-44-beta",
+        "apiVersion": null
+    },
+    {
+        "id": 16307,
+        "gameVersionTypeID": 76994,
+        "name": "21.1.229",
+        "slug": "21-1-229",
+        "apiVersion": null
     }
 ]
